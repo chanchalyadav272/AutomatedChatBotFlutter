@@ -4,4 +4,6 @@
 
 – Developed UI for chat with proper alignment for messages.
 
-– Integrated Brainshop API to fetch smart replies for the messages sent by user. – Supported platforms: iOS & Android.
+– Integrated Brainshop API to fetch smart replies for the messages sent by user. 
+
+– Supported platforms: iOS & Android.
